@@ -4,6 +4,13 @@ Implementing a small web-server that gives information on inbound and outbound f
 
 ## Installation
 
+Using docker compose
+
+```bash
+git clone https://github.com/orelmoshe/flightsAPI
+docker-compose up --build
+```
+
 Using local
 
 ```bash
